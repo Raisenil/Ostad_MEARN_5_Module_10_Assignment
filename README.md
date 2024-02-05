@@ -1,6 +1,6 @@
 # Ostad MEARN 5 Module 10 Assignment
 
-![alt text](images/image.png)
+![alt text](Images/image.png)
 
 Run the Assignment using cli
 
