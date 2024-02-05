@@ -9,7 +9,7 @@ cd Assignment
 node index.js
 ```
 
-For testing using **Postman** there is jsonfile for postman in **'PostMan File'**
+For testing using **Postman** there is json file for postman in **'PostMan File'**
 
 All URL Request
 
